@@ -63,4 +63,8 @@ public class CriarQuery {
                 + "\"endereco\": \"%s\"}" + "}",
                 user.getCpf_id(), user.getNome(), user.getTelefone(), user.getEndereco());
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 }
