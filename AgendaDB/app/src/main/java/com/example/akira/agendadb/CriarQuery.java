@@ -63,11 +63,4 @@ public class CriarQuery {
                 + "\"endereco\": \"%s\"}" + "}",
                 user.getCpf_id(), user.getNome(), user.getTelefone(), user.getEndereco());
     }
-
-
-
-    /**
-     * https://michaelkyazze.wordpress.com/2014/05/18/android-mongodb-mongolab-hosted-sample-app-part-one/
-     * https://michaelkyazze.wordpress.com/2014/09/22/android-mongodb-mongolab-hosted-sample-app-part-two/
-     */
 }
